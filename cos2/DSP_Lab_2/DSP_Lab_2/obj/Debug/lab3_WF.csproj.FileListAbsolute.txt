@@ -1,0 +1,30 @@
+C:\Users\Aleksey\Desktop\универ\7_sem\cos\lab3\lab3_WF\lab3_WF\bin\Debug\lab3_WF.exe.config
+C:\Users\Aleksey\Desktop\универ\7_sem\cos\lab3\lab3_WF\lab3_WF\bin\Debug\lab3_WF.exe
+C:\Users\Aleksey\Desktop\универ\7_sem\cos\lab3\lab3_WF\lab3_WF\bin\Debug\lab3_WF.pdb
+C:\Users\Aleksey\Desktop\универ\7_sem\cos\lab3\lab3_WF\lab3_WF\obj\Debug\lab3_WF.csprojAssemblyReference.cache
+C:\Users\Aleksey\Desktop\универ\7_sem\cos\lab3\lab3_WF\lab3_WF\obj\Debug\lab3_WF.frmLab3.resources
+C:\Users\Aleksey\Desktop\универ\7_sem\cos\lab3\lab3_WF\lab3_WF\obj\Debug\lab3_WF.Properties.Resources.resources
+C:\Users\Aleksey\Desktop\универ\7_sem\cos\lab3\lab3_WF\lab3_WF\obj\Debug\lab3_WF.csproj.GenerateResource.cache
+C:\Users\Aleksey\Desktop\универ\7_sem\cos\lab3\lab3_WF\lab3_WF\obj\Debug\lab3_WF.csproj.CoreCompileInputs.cache
+C:\Users\Aleksey\Desktop\универ\7_sem\cos\lab3\lab3_WF\lab3_WF\obj\Debug\lab3_WF.exe
+C:\Users\Aleksey\Desktop\универ\7_sem\cos\lab3\lab3_WF\lab3_WF\obj\Debug\lab3_WF.pdb
+C:\Users\polin\Downloads\Telegram Desktop\labs\lab3\lab3_WF\lab3_WF\bin\Debug\lab3_WF.exe.config
+C:\Users\polin\Downloads\Telegram Desktop\labs\lab3\lab3_WF\lab3_WF\bin\Debug\lab3_WF.exe
+C:\Users\polin\Downloads\Telegram Desktop\labs\lab3\lab3_WF\lab3_WF\bin\Debug\lab3_WF.pdb
+C:\Users\polin\Downloads\Telegram Desktop\labs\lab3\lab3_WF\lab3_WF\obj\Debug\lab3_WF.csprojAssemblyReference.cache
+C:\Users\polin\Downloads\Telegram Desktop\labs\lab3\lab3_WF\lab3_WF\obj\Debug\lab3_WF.frmLab3.resources
+C:\Users\polin\Downloads\Telegram Desktop\labs\lab3\lab3_WF\lab3_WF\obj\Debug\lab3_WF.Properties.Resources.resources
+C:\Users\polin\Downloads\Telegram Desktop\labs\lab3\lab3_WF\lab3_WF\obj\Debug\lab3_WF.csproj.GenerateResource.cache
+C:\Users\polin\Downloads\Telegram Desktop\labs\lab3\lab3_WF\lab3_WF\obj\Debug\lab3_WF.csproj.CoreCompileInputs.cache
+C:\Users\polin\Downloads\Telegram Desktop\labs\lab3\lab3_WF\lab3_WF\obj\Debug\lab3_WF.exe
+C:\Users\polin\Downloads\Telegram Desktop\labs\lab3\lab3_WF\lab3_WF\obj\Debug\lab3_WF.pdb
+C:\Users\home\Desktop\lab3_WF\lab3_WF\lab3_WF\bin\Debug\lab3_WF.exe.config
+C:\Users\home\Desktop\lab3_WF\lab3_WF\lab3_WF\bin\Debug\lab3_WF.exe
+C:\Users\home\Desktop\lab3_WF\lab3_WF\lab3_WF\bin\Debug\lab3_WF.pdb
+C:\Users\home\Desktop\lab3_WF\lab3_WF\lab3_WF\obj\Debug\lab3_WF.csprojAssemblyReference.cache
+C:\Users\home\Desktop\lab3_WF\lab3_WF\lab3_WF\obj\Debug\lab3_WF.frmLab3.resources
+C:\Users\home\Desktop\lab3_WF\lab3_WF\lab3_WF\obj\Debug\lab3_WF.Properties.Resources.resources
+C:\Users\home\Desktop\lab3_WF\lab3_WF\lab3_WF\obj\Debug\lab3_WF.csproj.GenerateResource.cache
+C:\Users\home\Desktop\lab3_WF\lab3_WF\lab3_WF\obj\Debug\lab3_WF.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\lab3_WF\lab3_WF\lab3_WF\obj\Debug\lab3_WF.exe
+C:\Users\home\Desktop\lab3_WF\lab3_WF\lab3_WF\obj\Debug\lab3_WF.pdb
